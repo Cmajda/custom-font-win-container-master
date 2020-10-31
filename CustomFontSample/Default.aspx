@@ -6,6 +6,8 @@
         <h1 style="font-family: 'Fredericka the Great',cursive">Web app in Windows container</h1>
         <p style="font-family: 'Fredericka the Great',cursive">This font is installed directly into the Windows OS!!</p>
         <p style="font-family: 'Fredericka the Great',cursive">Beoing STARTUJE</p>
+        <p style="font-family: 'Fredericka the Great',cursive">Beoing STARTUJE !!!!!!!!</p>
+
     </div>
 
 </asp:Content>
